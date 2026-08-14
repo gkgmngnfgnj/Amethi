@@ -1,6 +1,6 @@
-Here is a clean, professional, and well-structured `README.md` for your GitHub repository:
 
----
+
+
 
 # Amethi
 
